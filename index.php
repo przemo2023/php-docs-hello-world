@@ -14,7 +14,7 @@
 <?php 
     echo "Pozdrowienia dla Kasi i Bartosza!"; 
 ?>
-<div>
+</div>
 
 </body>
 </html>
