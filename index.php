@@ -12,7 +12,7 @@
 
 <div class="greetings">
 <?php 
-    echo "Pozdrowienia dla Kasi i Bartosza!"; 
+    echo "Pozdrowienia dla Storków."; 
 ?>
 </div>
 
