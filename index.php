@@ -12,7 +12,8 @@
 
 <div class="greetings">
 <?php 
-    echo "Pozdrowienia dla Storków."; 
+    echo "Z wyrazami szacunku dla Storków,"; 
+    echo "Przemek"; 
 ?>
 </div>
 
