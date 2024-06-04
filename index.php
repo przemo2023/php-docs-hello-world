@@ -12,12 +12,7 @@
 
 <div class="greetings">
 <?php
-<p>
-    echo "Z wyrazami szacunku dla Storków, "; 
-</p>
-<p>
-    echo "Przemek";
-</p>
+    echo "Z wyrazami szacunku dla Storków, Przemek";
 ?>
 </div>
 
