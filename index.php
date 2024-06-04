@@ -11,9 +11,13 @@
 <body>
 
 <div class="greetings">
-<?php 
-    echo "Z wyrazami szacunku dla Storków,"; 
-    echo "Przemek"; 
+<?php
+<p>
+    echo "Z wyrazami szacunku dla Storków, "; 
+</p>
+<p>
+    echo "Przemek";
+</p>
 ?>
 </div>
 
